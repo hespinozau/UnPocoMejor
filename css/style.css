@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1,h2{
+    color: blue;
+}
+section{
+    background-color: #00a0E3;
+}
+footer{
+    background-color: yellow;
+}

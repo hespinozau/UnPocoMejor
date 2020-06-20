@@ -1,0 +1,49 @@
+body {
+
+    padding-top: 5rem;
+
+}
+
+.starter-template {
+
+    padding: 1rem 1.5rem;
+
+    text-align: center;
+}
+.centralImages{
+   display: grid;
+   grid-column-gap: 25px;
+   grid-template-columns: 1fr 1fr 1fr;
+   justify-content: center;
+}
+.rounded{
+    width: 100%;
+}
+
+.habitosAtomicos{
+    font-size:20px;
+    
+}
+.firstText{
+    background-color: #dddddd;
+}
+.lastText{
+    background-color: lightskyblue;
+}
+.compoundInterest{
+    font-size: 21px;
+}
+.threeLayer{
+    font-size: 22px;
+}
+.ultimoText{
+    font-size: 24px;
+}
+.bg-dark{
+    background-color: #8d2525 !important;
+}
+footer{
+    background-color: #8d2525;
+    color: white;
+    line-height: 40px;
+}
