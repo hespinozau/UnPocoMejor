@@ -43,7 +43,9 @@ body {
     background-color: #8d2525 !important;
 }
 footer{
+    font-size: 28px;
     background-color: #8d2525;
+    height: 50px;
     color: white;
     line-height: 40px;
 }
